@@ -1,0 +1,6 @@
+FROM python
+RUN pip install requests
+ADD authentication_test.py /tests/authentication_test.py
+WORKDIR /tests/
+CMD python3 authentication_test.py
+

@@ -1,0 +1,69 @@
+https://www.coindesk.com/bitcoin-returns-near-40k-resistance-support-at-36k
+DisclosureThe leader in news and information on cryptocurrency, digital assets and the future of money, CoinDesk is a media outlet that strives for the highest journalistic standards and abides by a strict set of editorial policies .
+CoinDesk is an independent operating subsidiary of Digital Currency Group , which invests in cryptocurrencies and blockchain startups
+
+
+https://cointelegraph.com/news/record-57k-btc-leave-exchanges-in-one-day-dropping-bitcoin-reserves-to-pre-crash-levels
+Bitcoin (BTC) demanded a $40,000 resistance flip on Thursday as on-chain data revealed large withdrawals from exchanges.
+Amid concerns over the strength of this week’s rally, data on Thursday nonetheless pointed to genuine demand for BTC at higher prices.
+Bitcoin exchange net flows chart.
+Source: BybtIn search of solid supportDespite this demand, however, market participants remained convinced of the need for a higher low construction on BTC/USD before any higher levels could fall.
+Been bullish from 29.6k into resistance but today to me signals need to go down for higher low.”Exactly how low that higher low will be could be anywhere between $36,000 and $32,500, Cointelegraph reported.
+
+
+https://bitcoinmagazine.com/markets/bitcoin-mutual-fund-manager-profunds
+The first publicly available U.S. mutual fund that generally tracks the price of Bitcoin has been launched by a $60 billion fund manager.
+In a press release this morning ProFunds announced the launch of its Bitcoin Strategy ProFund (BTCFX).
+This will be the first publicly available U.S. mutual fund that generally tracks the price of Bitcoin.
+The new mutual fund offers investors exposure to the Bitcoin price without the need to separately manage a hardware wallet or exchange custodial solution.
+Although, the minimum investment limit in the fund is $1,000, which is over 1000x the minimum cost of purchasing bitcoin or sats outright, and more than twice the current cost of LedgerX’s Mini Futures contracts (.01 btc).
+
+
+https://www.thenewsnigeria.com.ng/2021/07/28/bitcoin-rises-above-40000/
+Bitcoin broke above $40,000 on Wednesday and headed for another attempt at breaking from its months-long range as short-sellers bailed out and traders drew confidence from recent positive comments about the cryptocurrency by high-profile investors.
+Bitcoin was last up 1.7 per cent at $40,149 while rival cryptocurrency ether rose 1 per cent to $2,328.
+It is a decentralised digital currency, without a central bank or single administrator, that can be sent from user to user on the peer-to-peer bitcoin network without the need for intermediaries.
+Research produced by the University of Cambridge estimated that in 2017, there were 2.9 to 5.8 million unique users using a cryptocurrency wallet, most of them using bitcoin.
+Bitcoin has also been used as an investment, although several regulatory agencies have issued investor alerts about bitcoin.
+
+
+https://news.bitcoin.com/elon-musk-tesla-owns-42k-bitcoins/
+Elon Musk Hints Tesla Owns About 42K BitcoinsTesla CEO Elon Musk has hinted how many bitcoins Tesla owns after revealing that the fair market value of its bitcoin holdings was $1.47 billion as of June 30.
+Tesla Holding About 42K BitcoinsTesla’s technoking, Elon Musk, has commented on how many bitcoins his electric car company owns in response to a rough calculation provided on Twitter by Tesla shareholder Dave Lee.
+Musk subsequently replied: “We don’t have that many bitcoin, but it’s close.”Tesla bought bitcoin worth $1.5 billion in the first quarter.
+According to a list of bitcoin treasuries, the only public company that owns more bitcoin than Tesla is Microstrategy.
+How many bitcoins do you think Elon Musk, Tesla, and Spacex own?
+
+
+https://www.cnbc.com/2021/07/28/sen-elizabeth-warren-doubts-bitcoin-as-inflation-hedge-wants-tighter-regulation.html
+Sen. Elizabeth Warren told CNBC on Wednesday she's skeptical that bitcoin will prove to be a reliable hedge against inflation over the long run, a key reason some investors choose to own it.
+The second assumption, according to Warren, is "crypto coins are not going to have their own inflationary pressures."
+Many critics, Warren among them, point to bitcoin's penchant for wild price swings and believe it undercuts the premise of bitcoin as a store of value.
+Against that backdrop, however, bitcoin tumbled from its all-time high near $65,000 in mid-April to below $30,000 this summer.
+That's mostly an inflation hedge.
+
+
+https://bitcoinmagazine.com/business/bitcoin-buying-paypal-uk-q2-earnings-call
+PayPal's launch of Bitcoin buy and sell services in the U.K. could soon allow thousands to gain exposure to the cryptocurrency's price movements.
+PayPal president and CEO Dan Schulman has issued new details about the payment giant’s Bitcoin and cryptocurrency services expansion.
+Although the call contained no mention of Bitcoin directly, Schulman said the company is adding functionality to its Venmo crypto services, which if launched in the U.K. could allow thousands to gain Bitcoin price exposure.
+Today, PayPal merely allows customers to buy and sell Bitcoin internally via a form of an internal IOU.
+And so we're really looking at how do we integrate that into both the trading and the buy with crypto on our platform.”
+
+
+https://bitcoinmagazine.com/business/seetee-invests-breez-lightning-bitcoin
+Norwegian investment company focused on Bitcoin, Seetee, has become the newest investor in the Bitcoin and Lightning company Breez.
+Bitcoin payments company Breez has announced that Seetee, the bitcoin-focused subsidiary of Norwegian investment group Aker, has become their newest investor.
+By providing a seamless and fast Bitcoin experience on top of Lightning, Breez helps users to take advantage of the unique value proposition of Bitcoin – final, unstoppable, uncensorable money.
+The Lightning Network is a decentralized scaling solution for Bitcoin that abstracts small transactions between users away from the Bitcoin blockchain.
+“Its non-custodial and trust-minimized architecture allows consumers, merchants, content creators, and other peers to transact on the Lightning network quickly and easily.
+
+
+https://bitcoinmagazine.com/business/bitcoin-real-estate-loan-glen-oaks
+Glen Oaks began accepting Bitcoin in 2018 and sees the loan as proof the cryptocurrency’s value proposition is becoming clearer to debtors and creditors.
+Glen Oaks Escrow, one of the largest independent escrow companies in California, has facilitated its first refinancing through a Bitcoin-backed loan.
+In a press release issued today, the company said this marks the first time a refinancing has been completed with a buyer using Bitcoin as collateral.
+Glen Oaks began accepting Bitcoin payments in 2018, and sees the news as proof the cryptocurrency’s value proposition is becoming clearer to debtors and creditors.
+Prior to today's transaction, Glen Oaks Escrow had only facilitated transactions in which the buyer used Bitcoin as the form of payment.
+
+

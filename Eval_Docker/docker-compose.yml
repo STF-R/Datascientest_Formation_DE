@@ -1,0 +1,42 @@
+version: '3.9'
+services:
+  fastapi:
+    image: datascientest/fastapi:1.0.0
+    container_name: datascientest_fastapi_from_compose
+    networks: 
+      - my_network_from_compose
+    ports: 
+      - target: 8000
+        published: 8000
+        protocol: tcp
+        mode: host
+  python_authenticaton:
+    image: authentication_test:latest
+    container_name: authenticaton_test_from_compose
+    networks: 
+      - my_network_from_compose
+    environment:
+      LOG: 1
+    volumes:
+      - .:/tests
+  python_authorization:
+    image: authorization_test:latest
+    container_name: authorization_test_from_compose
+    networks:
+      - my_network_from_compose
+    environment:
+      LOG: 1
+    volumes:
+      - .:/tests
+  python_content:
+    image: content_test:latest
+    container_name: content_test_from_compose
+    networks:
+      - my_network_from_compose
+    environment:
+      LOG: 1
+    volumes:
+      - .:/tests
+networks:
+    my_network_from_compose:
+

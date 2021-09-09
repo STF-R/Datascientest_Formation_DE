@@ -1,0 +1,6 @@
+FROM python
+RUN pip install requests
+ADD content_test.py /tests/content_test.py
+WORKDIR /tests/
+CMD python3 content_test.py
+

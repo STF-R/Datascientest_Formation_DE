@@ -1,0 +1,6 @@
+FROM python
+RUN pip install requests
+ADD authorization_test.py /tests/authorization_test.py
+WORKDIR /tests/
+CMD python3 authorization_test.py
+
